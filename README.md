@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+<h1>不設定端口轉換也可以連線的教學</h1>h1>
 <html>
 <head>
-  <title>帶背景顏色的 README 文件</title>
+  <title>docs</title>
   <style>
     body {
       background-color: #f0f0f0; /* 背景顏色 */
@@ -25,10 +25,8 @@
 </head>
 <body>
   <div class="container">
-    <h1>帶背景顏色的 README 文件</h1>
-    <p>這是一個帶有背景顏色的 README 文件的示例。你可以在這裡添加你的內容。</p>
-    <p>背景顏色：灰色</p>
-    <p>標題顏色：藍色</p>
+    <h1>[使用localhost架設pufferPanel](/minecraft)</h1>
+    <p>一個簡單的設定</p>
   </div>
 </body>
 </html>
