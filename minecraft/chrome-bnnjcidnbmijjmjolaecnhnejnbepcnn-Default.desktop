@@ -1,9 +1,0 @@
-#!/usr/bin/env xdg-open
-[Desktop Entry]
-Version=1.0
-Terminal=false
-Type=Application
-Name=rijin.solutions
-Exec=/opt/google/chrome/google-chrome --profile-directory=Default --app-id=bnnjcidnbmijjmjolaecnhnejnbepcnn
-Icon=chrome-bnnjcidnbmijjmjolaecnhnejnbepcnn-Default
-StartupWMClass=crx_bnnjcidnbmijjmjolaecnhnejnbepcnn
