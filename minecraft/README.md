@@ -19,7 +19,6 @@
       font-size: 16px;
     }
   </style>
-</head>
 允許使用以下支援系統架設: <br>
 <div class="table-wrapper docutils container">
 <table class="docutils align-default">
