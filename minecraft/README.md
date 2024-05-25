@@ -70,6 +70,8 @@
 </div>
 <br>
 
+* 如果你是Windows使用者可以使用內建[Hyper-V](https://learn.microsoft.com/zh-tw/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)來使用
+
 # 請使用以下端口
 `8080`<br>
 # 安裝
