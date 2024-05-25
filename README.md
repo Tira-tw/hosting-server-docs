@@ -25,7 +25,9 @@
 </head>
 <body>
   <div class="container">
-    <h1 href="minecraft">使用localhost架設pufferPanel</h1>
+    <h1>
+    <a href="minecraft">使用localhost架設pufferPanel</a>
+    </h1>
     <p>一個簡單的設定</p>
   </div>
 </body>
