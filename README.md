@@ -4,7 +4,7 @@
   <title>docs</title>
   <style>
     body {
-      background-color: #000000; /* 背景顏色 */
+      background-color: #00FFFF; /* 背景顏色 */
       font-family: Arial, sans-serif;
       color: #333; /* 文字顏色 */
       padding: 20px;
@@ -25,7 +25,7 @@
 </head>
 <body>
   <div class="container">
-    <h1 href="/minecraft">使用localhost架設pufferPanel</h1>
+    <h1 href="minecraft">使用localhost架設pufferPanel</h1>
     <p>一個簡單的設定</p>
   </div>
 </body>
