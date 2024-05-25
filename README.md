@@ -4,7 +4,7 @@
   <title>docs</title>
   <style>
     body {
-      background-color: #00FFFF; /* 背景顏色 */
+      background-color: #ADD8E6; /* 背景顏色 */
       font-family: Arial, sans-serif;
       color: #333; /* 文字顏色 */
       padding: 20px;
